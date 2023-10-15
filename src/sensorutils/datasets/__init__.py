@@ -22,5 +22,8 @@ from . import (
     pamap2,
     ucihar,
     unimib,
-    wisdm
+    wisdm,
+    dsads,
+    mhealth,
+    usc_had
 )
